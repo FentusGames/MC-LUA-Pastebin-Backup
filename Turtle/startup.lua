@@ -1,5 +1,5 @@
 -- ACCEPTS TEXT COMMANDS FROM COMPUTER #X AND RUNS THEM AS A SHELL COMMAND
-local side = "right"
+local side = "left"
 
 rednet.open(side)
 
