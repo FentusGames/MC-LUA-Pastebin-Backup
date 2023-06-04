@@ -11,7 +11,6 @@ function download(url, file)
 end
  
 download("https://pastebin.com/raw/ZwQjzUxD", "update")
-download("https://pastebin.com/raw/dBk8JdgE", "startup")
 download("https://pastebin.com/raw/FnasVkam", "cmd")
  
 if args[1] == nil then
